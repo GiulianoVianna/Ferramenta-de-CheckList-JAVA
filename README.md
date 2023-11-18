@@ -2,6 +2,10 @@
 
 ![image](https://github.com/GiulianoVianna/Ferramenta-de-CheckList-JAVA/assets/101942554/c8ecbf17-a58d-43c2-b760-3f255da53c69)
 
+
+https://github.com/GiulianoVianna/Ferramenta-de-CheckList-JAVA/assets/101942554/373f6dce-388e-47a5-96bf-5d7d8a2a162b
+
+
 O CheckList Atendimento é uma ferramenta projetada para gerenciar checklists de atendimento, permitindo aos usuários criar, editar, filtrar e excluir registros de maneira eficiente e intuitiva.
 
 ## Funcionalidades
