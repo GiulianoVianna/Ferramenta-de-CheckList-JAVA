@@ -1,14 +1,14 @@
-package com.mycompany.Main;
+package com.mycompany.checklistatendimento.main;
 
 import com.formdev.flatlaf.FlatDarkLaf;
-import com.mycompany.DAO.CheckListAtendimentoDAO;
-import com.mycompany.View.CheckListAtendimentoView;
+import com.mycompany.checklistatendimento.dao.CheckListAtendimentoDAO;
+import com.mycompany.checklistatendimento.view.CheckListAtendimentoView;
 
 /**
  * Classe principal para iniciar a aplicação de Checklist de Atendimento.
  * Configura o tema Dark Flat e inicializa a interface gráfica.
  */
-public class CheckListAtendimento {
+public class Main {
 
     public static void main(String[] args) {
 

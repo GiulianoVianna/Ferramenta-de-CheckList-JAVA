@@ -1,5 +1,5 @@
 
-package com.mycompany.DTO;
+package com.mycompany.checklistatendimento.dto;
 
 import java.sql.Date;
 

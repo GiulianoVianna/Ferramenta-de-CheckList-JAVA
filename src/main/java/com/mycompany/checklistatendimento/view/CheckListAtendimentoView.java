@@ -1,8 +1,8 @@
-package com.mycompany.View;
+package com.mycompany.checklistatendimento.view;
 
-import com.mycompany.DAO.CheckListAtendimentoDAO;
-import com.mycompany.DTO.CheckListAtendimentoDTO;
-import com.mycompany.Util.UpperCaseDocumentFilter;
+import com.mycompany.checklistatendimento.dao.CheckListAtendimentoDAO;
+import com.mycompany.checklistatendimento.dto.CheckListAtendimentoDTO;
+import com.mycompany.checklistatendimento.util.UpperCaseDocumentFilter;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.sql.Date;

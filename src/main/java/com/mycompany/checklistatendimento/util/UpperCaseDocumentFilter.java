@@ -1,4 +1,4 @@
-package com.mycompany.Util;
+package com.mycompany.checklistatendimento.util;
 
 import javax.swing.text.AttributeSet;
 import javax.swing.text.BadLocationException;
