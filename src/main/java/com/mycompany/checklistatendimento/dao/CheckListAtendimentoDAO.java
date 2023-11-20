@@ -1,6 +1,6 @@
-package com.mycompany.DAO;
+package com.mycompany.checklistatendimento.dao;
 
-import com.mycompany.DTO.CheckListAtendimentoDTO;
+import com.mycompany.checklistatendimento.dto.CheckListAtendimentoDTO;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
